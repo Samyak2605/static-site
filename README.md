@@ -133,3 +133,5 @@ Transfer starting: 3 files
 index.html
 style.css
 ✅ Deployment complete! Visit: http://13.48.13.51
+
+This is the project link: https://roadmap.sh/projects/static-site-server
